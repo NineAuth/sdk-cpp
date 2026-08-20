@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="NineAuth-CPP-EXAMPLE/NineAuth-CPP-EXAMPLE.vcxproj" />
+</Solution>
