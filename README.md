@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="assets/cover.png" alt="NineAuth C++ SDK" width="100" height="100" />
+  <img src="https://github.com/Deedzera/NineAuth/blob/main/assets/capa-sdk-cpp.png" alt="NineAuth C++ SDK" width="120" height="120" />
   <br /><br />
   <p><strong>NineAuth C++17 Native SDK &amp; Reference Implementation</strong></p>
   <p>Production-ready native C++ client designed for Windows applications, game loaders, game engines (Unreal Engine), and commercial desktop tools.</p>
