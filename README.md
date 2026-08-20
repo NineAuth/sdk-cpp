@@ -1,4 +1,4 @@
-﻿﻿<div align="center">
+<div align="center">
   <img src="https://github.com/Deedzera/NineAuth/blob/main/assets/capa-sdk-cpp.png" alt="NineAuth C++ SDK" width="120" height="120" />
   <br /><br />
   <p><strong>NineAuth C++17 Native SDK &amp; Reference Implementation</strong></p>
